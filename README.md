@@ -54,10 +54,14 @@ df – document frequency
 Scores for each document is calculated as,
 score(q,d) = ∑ TF-IDF
 
+### User interface is implemented by using Python's Flask Web framework.
+##### Snapshot:
+![image](https://github.com/MadhukeshK12/Implementing-Vertical-Search-Engine-without-using-Elastic-Search/assets/115413028/82ff0a87-e518-4c77-93bc-6fbff0357dbe)
+
 
 ### In Brief:
 • Designed and implemented a vertical search engine from scratch to retrieve journal papers from the CSM
-department at Coventry University.
+department at Coventry University with user interface.
 
 • Conducted pre-processing tasks such as tokenization, lowercasing, stop word removal, and stemming on
 scraped data.
