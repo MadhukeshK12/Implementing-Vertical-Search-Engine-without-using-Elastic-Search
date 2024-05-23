@@ -6,7 +6,7 @@ Develop a vertical search engine (without using Elastic Search) similar to Googl
 # Solution:
 ## Technologies used:
 1. Python
-2. Flask web framework ![Flask](https://img.shields.io/badge/Flask-blue.svg)
+2. Flask web framework 
 ###### Search engine components are crawler, indexer, query processing component. 
 
 1. ### Crawler:
