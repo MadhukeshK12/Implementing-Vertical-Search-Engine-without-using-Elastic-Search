@@ -4,6 +4,9 @@ This project was a part of my Informational Retrieval Coursework at Coventry Uni
 Develop a vertical search engine (without using Elastic Search) similar to Google Scholar, but specialised to retrieve only papers/books published by a member of the Research Centre for Computational Science and Mathematical Modelling (CSM) at Coventry University with User Interface(UI).
 
 # Solution:
+## Technologies used:
+1. Python
+2. Flask web framework
 ###### Search engine components are crawler, indexer, query processing component. 
 
 1. ### Crawler:
