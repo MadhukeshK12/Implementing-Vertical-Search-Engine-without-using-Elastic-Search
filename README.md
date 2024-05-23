@@ -1,7 +1,7 @@
 # information_retrieval
 This project was a part of my Informational Retrieval Coursework at Coventry University.
 # Task -1 
-Develop a vertical search engine (without using Elastic Search) similar to Google Scholar, but specialised to retrieve only papers/books published by a member of the Research Centre for Computational Science and Mathematical Modelling (CSM) at Coventry University. 
+Develop a vertical search engine (without using Elastic Search) similar to Google Scholar, but specialised to retrieve only papers/books published by a member of the Research Centre for Computational Science and Mathematical Modelling (CSM) at Coventry University with User Interface(UI).
 
 # Solution:
 ###### Search engine components are crawler, indexer, query processing component. 
