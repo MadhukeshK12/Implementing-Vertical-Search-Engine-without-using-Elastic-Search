@@ -72,4 +72,4 @@ structure for efficient indexing. Implemented ranked retrieval using tf-idf scor
 
 # How to Run:
 1. Download all the files and save them under one file. 
-2. Run final_web_crawler.py in Visual Studio Code  (Requires Internet to Crawl the webpages)
+2. Run final_web_crawler.py in Visual Studio Code  (Requires Internet to Crawl the webpages).
