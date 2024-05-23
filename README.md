@@ -58,8 +58,11 @@ score(q,d) = ∑ TF-IDF
 ### In Brief:
 Designed and implemented a vertical search engine from scratch to retrieve journal papers from the CSM
 department at Coventry University.
+
 • Conducted pre-processing tasks such as tokenization, lowercasing, stop word removal, and stemming on
 scraped data.
+
 • Developed an incremental crawler to update the search index weekly and utilized an inverted index data
 structure for efficient indexing. Implemented ranked retrieval using tf-idf scores and developed a userfriendly web interface using Python Flask framework.
+
 
