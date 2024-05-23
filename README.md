@@ -56,7 +56,7 @@ score(q,d) = ∑ TF-IDF
 
 
 ### In Brief:
-Designed and implemented a vertical search engine from scratch to retrieve journal papers from the CSM
+• Designed and implemented a vertical search engine from scratch to retrieve journal papers from the CSM
 department at Coventry University.
 
 • Conducted pre-processing tasks such as tokenization, lowercasing, stop word removal, and stemming on
