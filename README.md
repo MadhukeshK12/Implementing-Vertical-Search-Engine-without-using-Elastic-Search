@@ -70,3 +70,6 @@ scraped data.
 structure for efficient indexing. Implemented ranked retrieval using tf-idf scores and developed a userfriendly web interface using Python Flask framework.
 
 
+# How to Run:
+1. Download all the files and save them under one file. 
+2. Run final_web_crawler.py in Visual Studio Code  (Requires Internet to Crawl the webpages)
